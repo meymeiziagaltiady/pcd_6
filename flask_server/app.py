@@ -20,7 +20,7 @@ from flask_cors import CORS
 import math
 
 app = Flask(__name__)
-CORS(app)
+# abcdef
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__))
 
